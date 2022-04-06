@@ -30,7 +30,6 @@
     "@types/electron": "^1.6.10"
   },
   "dependencies": {
-    "@electron/remote": "^2.0.1",
     "buffer": "^6.0.3",
     "sass": "^1.43.4",
     "sucrase": "^3.20.3"
