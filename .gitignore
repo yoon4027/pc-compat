@@ -1,7 +1,5 @@
 # Ignore those
 plugins
-lib
-types
 themes
 config
 node_modules
